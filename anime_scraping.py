@@ -25,6 +25,11 @@ def get_query_from_file(filename):
         urls = [line.strip() for line in file]
     return urls
 
+def get_yymm_from_file(yymm_file):
+    with open(yymm_file, 'r') as file:
+        yymms = [line.strip() for line in file]
+    return yymms
+
 # Scraping
 def anime_info_scraping(word, logger):
 
@@ -40,13 +45,37 @@ def anime_info_scraping(word, logger):
 
     return soup
 
-def execute(log, query_path):
-
-    exec_datetiime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
-    log_path = f"./log/{exec_datetiime}.log"
-    csv_path = f"./data/animelist_{exec_datetiime}.csv"
+def execute(query_path):
+    yymm_list = './search_list/yymm.txt'
+    exec_datetime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
+    yymms = get_yymm_from_file(yymm_list)
+    
+    logger = setting_log(f"./log/{exec_datetime}.log")
+    logger.info("-----------------START-------------------")
 
     name_list = get_query_from_file(query_path)
-    for name in name_list:
-        with open(csv_path, "w", newline="", encoding="utf-8"):
-            div = soup.find_all('div', 'animeSeasonContainer')
+    for yymm in yymms:
+        csv_path = f"./data/animelist_{yymm}.csv"
+        
+        logger.info(f"Creating CSV file: {csv_path}")
+        
+        with open(csv_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            header = ["title", "info"]
+            writer.writerow(header)
+            
+            for name in name_list:
+                logger.info("Search Name:" + name)
+                soup = anime_info_scraping(name, logger)
+                div = soup.find_all('div', class_='animeSeasonItemBox04 clearfix')
+                
+                for anime in div:
+                    _title = anime.find('div', class_='seasonAnimeTtl')
+                    _info = anime.find('div', class_='seasonAnimeDetail')
+                    row = [_title, _info]
+                    writer.writerow(row)
+                    time.sleep(2)
+
+    logger.info("-----------------END-------------------")
+if __name__ == '__main__':
+    execute(data)
