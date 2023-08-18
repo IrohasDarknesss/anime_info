@@ -3,9 +3,15 @@ import csv
 import requests
 import time
 import logging, datetime
+import re, os
+import glob, getpass
+from tqdm import tqdm
 
 # Query File Path
 data = './search_list/season_query.txt'
+
+#save_path
+save_csv_dir = glob.glob('./data/*csv')
 
 #Setting log
 def setting_log(logpath):
@@ -25,16 +31,28 @@ def get_query_from_file(filename):
         urls = [line.strip() for line in file]
     return urls
 
+
 def get_yymm_from_file(yymm_file):
     with open(yymm_file, 'r') as file:
         yymms = [line.strip() for line in file]
     return yymms
 
+# delete same name csv
+def delete_same_file(dirs):
+    for dir in dirs:
+        if os.path.exists(dir):
+            print('Duplicate files found.')
+            os.remove(dir)
+            print('Delete to prevent duplication.')
+            print('Deletion completed.')
+        else:
+            pass
+
 # Scraping
 def anime_info_scraping(word, logger):
 
 
-    url = 'https://anime.eiga.com/program' + word
+    url = 'http://ruijianime.com/main' + word
 
     logger.info(url)
 
@@ -45,37 +63,66 @@ def anime_info_scraping(word, logger):
 
     return soup
 
-def execute(query_path):
+def execute(query_path, del_dir):
     yymm_list = './search_list/yymm.txt'
     exec_datetime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
     yymms = get_yymm_from_file(yymm_list)
-    
-    logger = setting_log(f"./log/{exec_datetime}.log")
-    logger.info("-----------------START-------------------")
 
-    name_list = get_query_from_file(query_path)
-    for yymm in yymms:
-        csv_path = f"./data/animelist_{yymm}.csv"
-        
-        logger.info(f"Creating CSV file: {csv_path}")
-        
-        with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            header = ["title", "info"]
-            writer.writerow(header)
-            
-            for name in name_list:
-                logger.info("Search Name:" + name)
-                soup = anime_info_scraping(name, logger)
-                div = soup.find_all('div', class_='animeSeasonItemBox04 clearfix')
+    print('To prevent duplication, check whether an existing file exists.')
+    delete_same_file(del_dir)
+    print('Duplicate checks completed.')
+
+    print('Start loading the programme.')
+
+    for _ in tqdm(range(100), desc="Loading", ncols=100, ascii=True):
+        time.sleep(0.1) 
+    print('Loading complete.')
+    time.sleep(3)
+
+    choice = input("The programme is ready to start. Do you want to run the programme? (yes/no): ").strip().lower()
+    if choice in ['yes', 'y', 'YES', 'Yes']:
+        print('Enter the final excecution phase')
+        time.sleep(3)
+        print('Execution rights are required to run this programme.')
+        time.sleep(3)
+        password = getpass.getpass("Please enter the execution password.: ")
+        if password == "620978":
+            print("Authentication completed. Start of programme execution.")
+            logger = setting_log(f"./log/{exec_datetime}.log")
+            logger.info("-----------------START-------------------")
+
+            name_list = get_query_from_file(query_path)
+            for yymm, name in zip(yymms, name_list):
+                csv_path = f"./data/animelist_{yymm}.csv"
                 
-                for anime in div:
-                    _title = anime.find('div', class_='seasonAnimeTtl')
-                    _info = anime.find('div', class_='seasonAnimeDetail')
-                    row = [_title, _info]
-                    writer.writerow(row)
-                    time.sleep(2)
+                logger.info(f"Creating CSV file: {csv_path}")
+                
+                with open(csv_path, "w", newline="", encoding="utf-8") as f:
+                    writer = csv.writer(f)
+                    header = ["title", "info"]
+                    writer.writerow(header)
+                    
+                    logger.info("Search Name:" + name)
+                    soup = anime_info_scraping(name, logger)
+                    div = soup.find_all('div', class_=re.compile('year_'))
+                        
+                    for anime in div:
+                        _title = anime.find('h2')
+                        _info = anime.find('p', class_='exp')
+                        row = [_title, _info]
+                        writer.writerow(row)
+                        time.sleep(2)
+                    logger.info(f'Writing to {csv_path} completed.')
 
-    logger.info("-----------------END-------------------")
+            logger.info("-----------------END-------------------")
+
+            print("The programme has been executed.")
+        else:
+            print("The execution password is incorrect. Access has been denied.")
+    elif choice in ['no', 'n', 'NO', 'No']:
+        print("Execution cancelled.")
+    else:
+        print("Input character error: answer with 'yes', 'y', 'YES', 'Yes' or ''no', 'n', 'NO', 'No'.")
+    
 if __name__ == '__main__':
-    execute(data)
+    execute(data, save_csv_dir)
