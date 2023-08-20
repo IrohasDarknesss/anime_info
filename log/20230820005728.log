@@ -1,0 +1,6 @@
+INFO : 2023-08-20 00:58:32,349 : -----------------START-------------------
+INFO : 2023-08-20 00:58:32,350 : Creating CSV file: ./data/animelist_2021_Jul.csv
+INFO : 2023-08-20 00:58:32,352 : Search Name:/year/2021-1.php
+INFO : 2023-08-20 00:58:32,352 : http://ruijianime.com/main/year/2021-1.php
+DEBUG : 2023-08-20 00:58:32,381 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 00:58:32,536 : http://ruijianime.com:80 "GET /main/year/2021-1.php HTTP/1.1" 200 10191

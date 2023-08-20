@@ -108,7 +108,11 @@ def execute(query_path, del_dir):
                         
                     for anime in div:
                         _title = anime.find('h2')
-                        _info = anime.find('p', class_='exp')
+                        if _title:
+                            for span in _title.find_all('span'):
+                                span.decompose()
+                            _title = _title.text
+                        _info = anime.find('p', class_='exp').text
                         row = [_title, _info]
                         writer.writerow(row)
                         time.sleep(2)
