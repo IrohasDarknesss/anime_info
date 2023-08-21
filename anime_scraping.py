@@ -63,6 +63,37 @@ def anime_info_scraping(word, logger):
 
     return soup
 
+def additional_pages_scraping(base_word, logger, writer):
+    base_url = 'http://ruijianime.com/main'
+    page_number = 1
+    while page_number <= 3:  # 60になるまでループを続ける
+        url = f"{base_url}{base_word}?start={page_number * 20}"
+        logger.info(url)
+        source = requests.get(url)
+        if source.status_code == 404:
+            logger.info(f"No more additional pages for {base_word} starting from page {page_number}.")
+            break
+        source.encoding = source.apparent_encoding
+        soup = bs(source.text, "html.parser")
+        
+        div = soup.find_all('div', class_=re.compile('year_'))
+        for anime in div:
+            _title = anime.find('h2')
+            if _title:
+                for span in _title.find_all('span'):
+                    span.decompose()
+                _title = _title.text
+            _info = anime.find('p', class_='exp').text
+            row = [_title, _info]
+            writer.writerow(row)
+            time.sleep(2)
+        
+        page_number += 1
+
+        if page_number >= 60:  # page_numberが60以上になったらループを終了する
+            logger.info(f"Page limit reached ({page_number}), stopping additional scraping.")
+            break
+    
 def execute(query_path, del_dir):
     yymm_list = './search_list/yymm.txt'
     exec_datetime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
@@ -118,6 +149,9 @@ def execute(query_path, del_dir):
                         time.sleep(2)
                     logger.info(f'Writing to {csv_path} completed.')
 
+                    # Check if there are additional pages and scrape them
+                    additional_pages_scraping(name, logger, writer)
+                    
             logger.info("-----------------END-------------------")
 
             print("The programme has been executed.")
