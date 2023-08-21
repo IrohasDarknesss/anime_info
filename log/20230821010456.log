@@ -1,0 +1,61 @@
+INFO : 2023-08-21 01:05:24,416 : -----------------START-------------------
+INFO : 2023-08-21 01:05:24,418 : Creating CSV file: ./data/animelist_2010_Apr.csv
+INFO : 2023-08-21 01:05:24,418 : Search Name:/year/2010-0.php
+INFO : 2023-08-21 01:05:24,418 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-21 01:05:24,441 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:05:24,590 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:06:04,727 : Writing to ./data/animelist_2010_Apr.csv completed.
+INFO : 2023-08-21 01:06:04,728 : http://ruijianime.com/main/year/2010-0.php?start=20
+DEBUG : 2023-08-21 01:06:04,732 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:04,877 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=20 HTTP/1.1" 200 5994
+INFO : 2023-08-21 01:06:22,927 : http://ruijianime.com/main/year/2010-0.php?start=40
+DEBUG : 2023-08-21 01:06:22,934 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,075 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=40 HTTP/1.1" 200 2539
+INFO : 2023-08-21 01:06:23,084 : http://ruijianime.com/main/year/2010-0.php?start=60
+DEBUG : 2023-08-21 01:06:23,087 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,225 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=60 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:23,236 : http://ruijianime.com/main/year/2010-0.php?start=80
+DEBUG : 2023-08-21 01:06:23,239 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,375 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=80 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:23,385 : http://ruijianime.com/main/year/2010-0.php?start=100
+DEBUG : 2023-08-21 01:06:23,387 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,531 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=100 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:23,542 : http://ruijianime.com/main/year/2010-0.php?start=120
+DEBUG : 2023-08-21 01:06:23,545 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,695 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=120 HTTP/1.1" 200 2540
+INFO : 2023-08-21 01:06:23,706 : http://ruijianime.com/main/year/2010-0.php?start=140
+DEBUG : 2023-08-21 01:06:23,708 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,846 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=140 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:23,855 : http://ruijianime.com/main/year/2010-0.php?start=160
+DEBUG : 2023-08-21 01:06:23,857 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:23,993 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=160 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:23,996 : http://ruijianime.com/main/year/2010-0.php?start=180
+DEBUG : 2023-08-21 01:06:24,016 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:24,155 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=180 HTTP/1.1" 200 2541
+INFO : 2023-08-21 01:06:24,158 : http://ruijianime.com/main/year/2010-0.php?start=200
+DEBUG : 2023-08-21 01:06:24,166 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:06:24,297 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=200 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:07:04,409 : http://ruijianime.com/main/year/2010-0.php?start=220
+DEBUG : 2023-08-21 01:07:04,420 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:07:04,569 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=220 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:07:44,694 : http://ruijianime.com/main/year/2010-0.php?start=240
+DEBUG : 2023-08-21 01:07:44,702 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:07:44,852 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=240 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:08:24,974 : http://ruijianime.com/main/year/2010-0.php?start=260
+DEBUG : 2023-08-21 01:08:24,984 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:08:25,126 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=260 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:09:05,257 : http://ruijianime.com/main/year/2010-0.php?start=280
+DEBUG : 2023-08-21 01:09:05,263 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:09:05,407 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=280 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:09:45,546 : http://ruijianime.com/main/year/2010-0.php?start=300
+DEBUG : 2023-08-21 01:09:45,555 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:09:45,696 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=300 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:10:25,833 : http://ruijianime.com/main/year/2010-0.php?start=320
+DEBUG : 2023-08-21 01:10:25,840 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:10:25,984 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=320 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:11:06,112 : http://ruijianime.com/main/year/2010-0.php?start=340
+DEBUG : 2023-08-21 01:11:06,121 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:11:06,264 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=340 HTTP/1.1" 200 9306
+INFO : 2023-08-21 01:11:46,370 : http://ruijianime.com/main/year/2010-0.php?start=360
+DEBUG : 2023-08-21 01:11:46,376 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-21 01:11:46,527 : http://ruijianime.com:80 "GET /main/year/2010-0.php?start=360 HTTP/1.1" 200 9306

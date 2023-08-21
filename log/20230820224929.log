@@ -1,0 +1,17 @@
+INFO : 2023-08-20 22:49:56,932 : -----------------START-------------------
+INFO : 2023-08-20 22:49:56,933 : Creating CSV file: ./data/animelist_2010_Apr.csv
+INFO : 2023-08-20 22:49:56,933 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 22:49:56,948 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 22:49:57,096 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
+INFO : 2023-08-20 22:50:37,192 : Writing to ./data/animelist_2010_Apr.csv completed on page 1.
+INFO : 2023-08-20 22:50:37,202 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 22:50:37,207 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 22:50:37,349 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
+INFO : 2023-08-20 22:51:17,476 : Writing to ./data/animelist_2010_Apr.csv completed on page 2.
+INFO : 2023-08-20 22:51:17,482 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 22:51:17,485 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 22:51:17,629 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
+INFO : 2023-08-20 22:51:57,731 : Writing to ./data/animelist_2010_Apr.csv completed on page 3.
+INFO : 2023-08-20 22:51:57,739 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 22:51:57,744 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 22:51:57,896 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306

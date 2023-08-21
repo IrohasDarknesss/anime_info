@@ -1,0 +1,366 @@
+INFO : 2023-08-20 23:04:52,118 : -----------------START-------------------
+INFO : 2023-08-20 23:04:52,119 : Creating CSV file: ./data/animelist_2010_Apr.csv
+INFO : 2023-08-20 23:04:52,119 : Scraping URL: http://ruijianime.com/main/year/2010_Apr.php
+INFO : 2023-08-20 23:04:52,119 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2010_Apr.php
+DEBUG : 2023-08-20 23:04:52,173 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,207 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2010_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,208 : No more data for '/year/2010-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,208 : Scraping for '/year/2010-0.php' completed.
+INFO : 2023-08-20 23:04:52,208 : Creating CSV file: ./data/animelist_2010_Jul.csv
+INFO : 2023-08-20 23:04:52,208 : Scraping URL: http://ruijianime.com/main/year/2010_Jul.php
+INFO : 2023-08-20 23:04:52,209 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2010_Jul.php
+DEBUG : 2023-08-20 23:04:52,210 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,224 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2010_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,225 : No more data for '/year/2010-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,225 : Scraping for '/year/2010-1.php' completed.
+INFO : 2023-08-20 23:04:52,225 : Creating CSV file: ./data/animelist_2010_Oct.csv
+INFO : 2023-08-20 23:04:52,225 : Scraping URL: http://ruijianime.com/main/year/2010_Oct.php
+INFO : 2023-08-20 23:04:52,225 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2010_Oct.php
+DEBUG : 2023-08-20 23:04:52,226 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,241 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2010_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,241 : No more data for '/year/2010-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,241 : Scraping for '/year/2010-2.php' completed.
+INFO : 2023-08-20 23:04:52,241 : Creating CSV file: ./data/animelist_2010_Jan.csv
+INFO : 2023-08-20 23:04:52,241 : Scraping URL: http://ruijianime.com/main/year/2010_Jan.php
+INFO : 2023-08-20 23:04:52,242 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2010_Jan.php
+DEBUG : 2023-08-20 23:04:52,243 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,256 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2010_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,256 : No more data for '/year/2010-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,256 : Scraping for '/year/2010-3.php' completed.
+INFO : 2023-08-20 23:04:52,256 : Creating CSV file: ./data/animelist_2011_Apr.csv
+INFO : 2023-08-20 23:04:52,256 : Scraping URL: http://ruijianime.com/main/year/2011_Apr.php
+INFO : 2023-08-20 23:04:52,256 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2011_Apr.php
+DEBUG : 2023-08-20 23:04:52,257 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,272 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2011_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,273 : No more data for '/year/2011-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,273 : Scraping for '/year/2011-0.php' completed.
+INFO : 2023-08-20 23:04:52,273 : Creating CSV file: ./data/animelist_2011_Jul.csv
+INFO : 2023-08-20 23:04:52,273 : Scraping URL: http://ruijianime.com/main/year/2011_Jul.php
+INFO : 2023-08-20 23:04:52,273 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2011_Jul.php
+DEBUG : 2023-08-20 23:04:52,274 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,290 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2011_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,290 : No more data for '/year/2011-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,290 : Scraping for '/year/2011-1.php' completed.
+INFO : 2023-08-20 23:04:52,290 : Creating CSV file: ./data/animelist_2011_Oct.csv
+INFO : 2023-08-20 23:04:52,290 : Scraping URL: http://ruijianime.com/main/year/2011_Oct.php
+INFO : 2023-08-20 23:04:52,290 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2011_Oct.php
+DEBUG : 2023-08-20 23:04:52,291 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,305 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2011_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,305 : No more data for '/year/2011-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,306 : Scraping for '/year/2011-2.php' completed.
+INFO : 2023-08-20 23:04:52,306 : Creating CSV file: ./data/animelist_2011_Jan.csv
+INFO : 2023-08-20 23:04:52,306 : Scraping URL: http://ruijianime.com/main/year/2011_Jan.php
+INFO : 2023-08-20 23:04:52,306 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2011_Jan.php
+DEBUG : 2023-08-20 23:04:52,307 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,322 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2011_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,322 : No more data for '/year/2011-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,322 : Scraping for '/year/2011-3.php' completed.
+INFO : 2023-08-20 23:04:52,322 : Creating CSV file: ./data/animelist_2012_Apr.csv
+INFO : 2023-08-20 23:04:52,322 : Scraping URL: http://ruijianime.com/main/year/2012_Apr.php
+INFO : 2023-08-20 23:04:52,322 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2012_Apr.php
+DEBUG : 2023-08-20 23:04:52,324 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,339 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2012_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,340 : No more data for '/year/2012-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,340 : Scraping for '/year/2012-0.php' completed.
+INFO : 2023-08-20 23:04:52,340 : Creating CSV file: ./data/animelist_2012_Jul.csv
+INFO : 2023-08-20 23:04:52,340 : Scraping URL: http://ruijianime.com/main/year/2012_Jul.php
+INFO : 2023-08-20 23:04:52,340 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2012_Jul.php
+DEBUG : 2023-08-20 23:04:52,342 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,356 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2012_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,357 : No more data for '/year/2012-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,357 : Scraping for '/year/2012-1.php' completed.
+INFO : 2023-08-20 23:04:52,357 : Creating CSV file: ./data/animelist_2012_Oct.csv
+INFO : 2023-08-20 23:04:52,357 : Scraping URL: http://ruijianime.com/main/year/2012_Oct.php
+INFO : 2023-08-20 23:04:52,357 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2012_Oct.php
+DEBUG : 2023-08-20 23:04:52,359 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,374 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2012_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,375 : No more data for '/year/2012-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,375 : Scraping for '/year/2012-2.php' completed.
+INFO : 2023-08-20 23:04:52,375 : Creating CSV file: ./data/animelist_2012_Jan.csv
+INFO : 2023-08-20 23:04:52,375 : Scraping URL: http://ruijianime.com/main/year/2012_Jan.php
+INFO : 2023-08-20 23:04:52,375 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2012_Jan.php
+DEBUG : 2023-08-20 23:04:52,377 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,392 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2012_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,393 : No more data for '/year/2012-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,393 : Scraping for '/year/2012-3.php' completed.
+INFO : 2023-08-20 23:04:52,393 : Creating CSV file: ./data/animelist_2013_Apr.csv
+INFO : 2023-08-20 23:04:52,393 : Scraping URL: http://ruijianime.com/main/year/2013_Apr.php
+INFO : 2023-08-20 23:04:52,393 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2013_Apr.php
+DEBUG : 2023-08-20 23:04:52,395 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,411 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2013_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,412 : No more data for '/year/2013-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,412 : Scraping for '/year/2013-0.php' completed.
+INFO : 2023-08-20 23:04:52,412 : Creating CSV file: ./data/animelist_2013_Jul.csv
+INFO : 2023-08-20 23:04:52,412 : Scraping URL: http://ruijianime.com/main/year/2013_Jul.php
+INFO : 2023-08-20 23:04:52,412 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2013_Jul.php
+DEBUG : 2023-08-20 23:04:52,414 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,433 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2013_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,434 : No more data for '/year/2013-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,435 : Scraping for '/year/2013-1.php' completed.
+INFO : 2023-08-20 23:04:52,435 : Creating CSV file: ./data/animelist_2013_Oct.csv
+INFO : 2023-08-20 23:04:52,435 : Scraping URL: http://ruijianime.com/main/year/2013_Oct.php
+INFO : 2023-08-20 23:04:52,435 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2013_Oct.php
+DEBUG : 2023-08-20 23:04:52,438 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,455 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2013_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,456 : No more data for '/year/2013-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,456 : Scraping for '/year/2013-2.php' completed.
+INFO : 2023-08-20 23:04:52,456 : Creating CSV file: ./data/animelist_2013_Jan.csv
+INFO : 2023-08-20 23:04:52,456 : Scraping URL: http://ruijianime.com/main/year/2013_Jan.php
+INFO : 2023-08-20 23:04:52,456 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2013_Jan.php
+DEBUG : 2023-08-20 23:04:52,459 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,485 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2013_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,486 : No more data for '/year/2013-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,486 : Scraping for '/year/2013-3.php' completed.
+INFO : 2023-08-20 23:04:52,486 : Creating CSV file: ./data/animelist_2014_Apr.csv
+INFO : 2023-08-20 23:04:52,486 : Scraping URL: http://ruijianime.com/main/year/2014_Apr.php
+INFO : 2023-08-20 23:04:52,486 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2014_Apr.php
+DEBUG : 2023-08-20 23:04:52,488 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,503 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2014_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,504 : No more data for '/year/2014-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,504 : Scraping for '/year/2014-0.php' completed.
+INFO : 2023-08-20 23:04:52,504 : Creating CSV file: ./data/animelist_2014_Jul.csv
+INFO : 2023-08-20 23:04:52,504 : Scraping URL: http://ruijianime.com/main/year/2014_Jul.php
+INFO : 2023-08-20 23:04:52,504 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2014_Jul.php
+DEBUG : 2023-08-20 23:04:52,507 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,522 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2014_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,523 : No more data for '/year/2014-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,523 : Scraping for '/year/2014-1.php' completed.
+INFO : 2023-08-20 23:04:52,523 : Creating CSV file: ./data/animelist_2014_Oct.csv
+INFO : 2023-08-20 23:04:52,523 : Scraping URL: http://ruijianime.com/main/year/2014_Oct.php
+INFO : 2023-08-20 23:04:52,523 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2014_Oct.php
+DEBUG : 2023-08-20 23:04:52,526 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,541 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2014_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,542 : No more data for '/year/2014-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,543 : Scraping for '/year/2014-2.php' completed.
+INFO : 2023-08-20 23:04:52,543 : Creating CSV file: ./data/animelist_2014_Jan.csv
+INFO : 2023-08-20 23:04:52,543 : Scraping URL: http://ruijianime.com/main/year/2014_Jan.php
+INFO : 2023-08-20 23:04:52,543 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2014_Jan.php
+DEBUG : 2023-08-20 23:04:52,546 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,562 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2014_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,563 : No more data for '/year/2014-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,564 : Scraping for '/year/2014-3.php' completed.
+INFO : 2023-08-20 23:04:52,564 : Creating CSV file: ./data/animelist_2015_Apr.csv
+INFO : 2023-08-20 23:04:52,564 : Scraping URL: http://ruijianime.com/main/year/2015_Apr.php
+INFO : 2023-08-20 23:04:52,564 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2015_Apr.php
+DEBUG : 2023-08-20 23:04:52,567 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,583 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2015_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,584 : No more data for '/year/2015-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,584 : Scraping for '/year/2015-0.php' completed.
+INFO : 2023-08-20 23:04:52,584 : Creating CSV file: ./data/animelist_2015_Jul.csv
+INFO : 2023-08-20 23:04:52,584 : Scraping URL: http://ruijianime.com/main/year/2015_Jul.php
+INFO : 2023-08-20 23:04:52,584 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2015_Jul.php
+DEBUG : 2023-08-20 23:04:52,586 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,603 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2015_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,604 : No more data for '/year/2015-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,604 : Scraping for '/year/2015-1.php' completed.
+INFO : 2023-08-20 23:04:52,604 : Creating CSV file: ./data/animelist_2015_Oct.csv
+INFO : 2023-08-20 23:04:52,604 : Scraping URL: http://ruijianime.com/main/year/2015_Oct.php
+INFO : 2023-08-20 23:04:52,604 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2015_Oct.php
+DEBUG : 2023-08-20 23:04:52,606 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,624 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2015_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,625 : No more data for '/year/2015-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,625 : Scraping for '/year/2015-2.php' completed.
+INFO : 2023-08-20 23:04:52,625 : Creating CSV file: ./data/animelist_2015_Jan.csv
+INFO : 2023-08-20 23:04:52,625 : Scraping URL: http://ruijianime.com/main/year/2015_Jan.php
+INFO : 2023-08-20 23:04:52,625 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2015_Jan.php
+DEBUG : 2023-08-20 23:04:52,628 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,643 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2015_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,645 : No more data for '/year/2015-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,645 : Scraping for '/year/2015-3.php' completed.
+INFO : 2023-08-20 23:04:52,645 : Creating CSV file: ./data/animelist_2016_Apr.csv
+INFO : 2023-08-20 23:04:52,645 : Scraping URL: http://ruijianime.com/main/year/2016_Apr.php
+INFO : 2023-08-20 23:04:52,645 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2016_Apr.php
+DEBUG : 2023-08-20 23:04:52,648 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,702 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2016_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,703 : No more data for '/year/2016-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,703 : Scraping for '/year/2016-0.php' completed.
+INFO : 2023-08-20 23:04:52,704 : Creating CSV file: ./data/animelist_2016_Jul.csv
+INFO : 2023-08-20 23:04:52,704 : Scraping URL: http://ruijianime.com/main/year/2016_Jul.php
+INFO : 2023-08-20 23:04:52,704 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2016_Jul.php
+DEBUG : 2023-08-20 23:04:52,706 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,723 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2016_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,724 : No more data for '/year/2016-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,724 : Scraping for '/year/2016-1.php' completed.
+INFO : 2023-08-20 23:04:52,724 : Creating CSV file: ./data/animelist_2016_Oct.csv
+INFO : 2023-08-20 23:04:52,724 : Scraping URL: http://ruijianime.com/main/year/2016_Oct.php
+INFO : 2023-08-20 23:04:52,724 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2016_Oct.php
+DEBUG : 2023-08-20 23:04:52,726 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,742 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2016_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,743 : No more data for '/year/2016-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,743 : Scraping for '/year/2016-2.php' completed.
+INFO : 2023-08-20 23:04:52,743 : Creating CSV file: ./data/animelist_2016_Jan.csv
+INFO : 2023-08-20 23:04:52,743 : Scraping URL: http://ruijianime.com/main/year/2016_Jan.php
+INFO : 2023-08-20 23:04:52,743 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2016_Jan.php
+DEBUG : 2023-08-20 23:04:52,755 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,770 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2016_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,771 : No more data for '/year/2016-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,771 : Scraping for '/year/2016-3.php' completed.
+INFO : 2023-08-20 23:04:52,771 : Creating CSV file: ./data/animelist_2017_Apr.csv
+INFO : 2023-08-20 23:04:52,771 : Scraping URL: http://ruijianime.com/main/year/2017_Apr.php
+INFO : 2023-08-20 23:04:52,771 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2017_Apr.php
+DEBUG : 2023-08-20 23:04:52,772 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,787 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2017_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,788 : No more data for '/year/2017-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,788 : Scraping for '/year/2017-0.php' completed.
+INFO : 2023-08-20 23:04:52,788 : Creating CSV file: ./data/animelist_2017_Jul.csv
+INFO : 2023-08-20 23:04:52,788 : Scraping URL: http://ruijianime.com/main/year/2017_Jul.php
+INFO : 2023-08-20 23:04:52,788 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2017_Jul.php
+DEBUG : 2023-08-20 23:04:52,789 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,805 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2017_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,806 : No more data for '/year/2017-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,806 : Scraping for '/year/2017-1.php' completed.
+INFO : 2023-08-20 23:04:52,806 : Creating CSV file: ./data/animelist_2017_Oct.csv
+INFO : 2023-08-20 23:04:52,806 : Scraping URL: http://ruijianime.com/main/year/2017_Oct.php
+INFO : 2023-08-20 23:04:52,806 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2017_Oct.php
+DEBUG : 2023-08-20 23:04:52,807 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,823 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2017_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,824 : No more data for '/year/2017-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,824 : Scraping for '/year/2017-2.php' completed.
+INFO : 2023-08-20 23:04:52,824 : Creating CSV file: ./data/animelist_2017_Jan.csv
+INFO : 2023-08-20 23:04:52,824 : Scraping URL: http://ruijianime.com/main/year/2017_Jan.php
+INFO : 2023-08-20 23:04:52,824 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2017_Jan.php
+DEBUG : 2023-08-20 23:04:52,825 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,840 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2017_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,841 : No more data for '/year/2017-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,841 : Scraping for '/year/2017-3.php' completed.
+INFO : 2023-08-20 23:04:52,841 : Creating CSV file: ./data/animelist_2018_Apr.csv
+INFO : 2023-08-20 23:04:52,841 : Scraping URL: http://ruijianime.com/main/year/2018_Apr.php
+INFO : 2023-08-20 23:04:52,841 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2018_Apr.php
+DEBUG : 2023-08-20 23:04:52,843 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,859 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2018_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,859 : No more data for '/year/2018-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,859 : Scraping for '/year/2018-0.php' completed.
+INFO : 2023-08-20 23:04:52,859 : Creating CSV file: ./data/animelist_2018_Jul.csv
+INFO : 2023-08-20 23:04:52,859 : Scraping URL: http://ruijianime.com/main/year/2018_Jul.php
+INFO : 2023-08-20 23:04:52,859 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2018_Jul.php
+DEBUG : 2023-08-20 23:04:52,861 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,874 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2018_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,875 : No more data for '/year/2018-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,875 : Scraping for '/year/2018-1.php' completed.
+INFO : 2023-08-20 23:04:52,875 : Creating CSV file: ./data/animelist_2018_Oct.csv
+INFO : 2023-08-20 23:04:52,875 : Scraping URL: http://ruijianime.com/main/year/2018_Oct.php
+INFO : 2023-08-20 23:04:52,875 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2018_Oct.php
+DEBUG : 2023-08-20 23:04:52,876 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,890 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2018_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,891 : No more data for '/year/2018-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,891 : Scraping for '/year/2018-2.php' completed.
+INFO : 2023-08-20 23:04:52,891 : Creating CSV file: ./data/animelist_2018_Jan.csv
+INFO : 2023-08-20 23:04:52,891 : Scraping URL: http://ruijianime.com/main/year/2018_Jan.php
+INFO : 2023-08-20 23:04:52,891 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2018_Jan.php
+DEBUG : 2023-08-20 23:04:52,892 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,907 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2018_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,908 : No more data for '/year/2018-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,908 : Scraping for '/year/2018-3.php' completed.
+INFO : 2023-08-20 23:04:52,908 : Creating CSV file: ./data/animelist_2019_Apr.csv
+INFO : 2023-08-20 23:04:52,908 : Scraping URL: http://ruijianime.com/main/year/2019_Apr.php
+INFO : 2023-08-20 23:04:52,908 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2019_Apr.php
+DEBUG : 2023-08-20 23:04:52,909 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,925 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2019_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,926 : No more data for '/year/2019-0.php' on page 1.
+INFO : 2023-08-20 23:04:52,926 : Scraping for '/year/2019-0.php' completed.
+INFO : 2023-08-20 23:04:52,926 : Creating CSV file: ./data/animelist_2019_Jul.csv
+INFO : 2023-08-20 23:04:52,926 : Scraping URL: http://ruijianime.com/main/year/2019_Jul.php
+INFO : 2023-08-20 23:04:52,926 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2019_Jul.php
+DEBUG : 2023-08-20 23:04:52,928 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,942 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2019_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,942 : No more data for '/year/2019-1.php' on page 1.
+INFO : 2023-08-20 23:04:52,942 : Scraping for '/year/2019-1.php' completed.
+INFO : 2023-08-20 23:04:52,943 : Creating CSV file: ./data/animelist_2019_Oct.csv
+INFO : 2023-08-20 23:04:52,943 : Scraping URL: http://ruijianime.com/main/year/2019_Oct.php
+INFO : 2023-08-20 23:04:52,943 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2019_Oct.php
+DEBUG : 2023-08-20 23:04:52,945 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,961 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2019_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,961 : No more data for '/year/2019-2.php' on page 1.
+INFO : 2023-08-20 23:04:52,961 : Scraping for '/year/2019-2.php' completed.
+INFO : 2023-08-20 23:04:52,961 : Creating CSV file: ./data/animelist_2019_Jan.csv
+INFO : 2023-08-20 23:04:52,961 : Scraping URL: http://ruijianime.com/main/year/2019_Jan.php
+INFO : 2023-08-20 23:04:52,961 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2019_Jan.php
+DEBUG : 2023-08-20 23:04:52,963 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,979 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2019_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:52,980 : No more data for '/year/2019-3.php' on page 1.
+INFO : 2023-08-20 23:04:52,980 : Scraping for '/year/2019-3.php' completed.
+INFO : 2023-08-20 23:04:52,980 : Creating CSV file: ./data/animelist_2020_Apr.csv
+INFO : 2023-08-20 23:04:52,980 : Scraping URL: http://ruijianime.com/main/year/2020_Apr.php
+INFO : 2023-08-20 23:04:52,980 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2020_Apr.php
+DEBUG : 2023-08-20 23:04:52,983 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:52,998 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2020_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,000 : No more data for '/year/2020-0.php' on page 1.
+INFO : 2023-08-20 23:04:53,000 : Scraping for '/year/2020-0.php' completed.
+INFO : 2023-08-20 23:04:53,000 : Creating CSV file: ./data/animelist_2020_Jul.csv
+INFO : 2023-08-20 23:04:53,000 : Scraping URL: http://ruijianime.com/main/year/2020_Jul.php
+INFO : 2023-08-20 23:04:53,000 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2020_Jul.php
+DEBUG : 2023-08-20 23:04:53,003 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,021 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2020_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,022 : No more data for '/year/2020-1.php' on page 1.
+INFO : 2023-08-20 23:04:53,022 : Scraping for '/year/2020-1.php' completed.
+INFO : 2023-08-20 23:04:53,022 : Creating CSV file: ./data/animelist_2020_Oct.csv
+INFO : 2023-08-20 23:04:53,022 : Scraping URL: http://ruijianime.com/main/year/2020_Oct.php
+INFO : 2023-08-20 23:04:53,022 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2020_Oct.php
+DEBUG : 2023-08-20 23:04:53,025 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,040 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2020_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,042 : No more data for '/year/2020-2.php' on page 1.
+INFO : 2023-08-20 23:04:53,042 : Scraping for '/year/2020-2.php' completed.
+INFO : 2023-08-20 23:04:53,042 : Creating CSV file: ./data/animelist_2020_Jan.csv
+INFO : 2023-08-20 23:04:53,042 : Scraping URL: http://ruijianime.com/main/year/2020_Jan.php
+INFO : 2023-08-20 23:04:53,042 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2020_Jan.php
+DEBUG : 2023-08-20 23:04:53,045 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,060 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2020_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,061 : No more data for '/year/2020-3.php' on page 1.
+INFO : 2023-08-20 23:04:53,061 : Scraping for '/year/2020-3.php' completed.
+INFO : 2023-08-20 23:04:53,062 : Creating CSV file: ./data/animelist_2021_Apr.csv
+INFO : 2023-08-20 23:04:53,062 : Scraping URL: http://ruijianime.com/main/year/2021_Apr.php
+INFO : 2023-08-20 23:04:53,062 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2021_Apr.php
+DEBUG : 2023-08-20 23:04:53,065 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,081 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2021_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,082 : No more data for '/year/2021-0.php' on page 1.
+INFO : 2023-08-20 23:04:53,083 : Scraping for '/year/2021-0.php' completed.
+INFO : 2023-08-20 23:04:53,083 : Creating CSV file: ./data/animelist_2021_Jul.csv
+INFO : 2023-08-20 23:04:53,083 : Scraping URL: http://ruijianime.com/main/year/2021_Jul.php
+INFO : 2023-08-20 23:04:53,083 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2021_Jul.php
+DEBUG : 2023-08-20 23:04:53,086 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,101 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2021_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,102 : No more data for '/year/2021-1.php' on page 1.
+INFO : 2023-08-20 23:04:53,102 : Scraping for '/year/2021-1.php' completed.
+INFO : 2023-08-20 23:04:53,102 : Creating CSV file: ./data/animelist_2021_Oct.csv
+INFO : 2023-08-20 23:04:53,102 : Scraping URL: http://ruijianime.com/main/year/2021_Oct.php
+INFO : 2023-08-20 23:04:53,102 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2021_Oct.php
+DEBUG : 2023-08-20 23:04:53,104 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,119 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2021_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,120 : No more data for '/year/2021-2.php' on page 1.
+INFO : 2023-08-20 23:04:53,120 : Scraping for '/year/2021-2.php' completed.
+INFO : 2023-08-20 23:04:53,120 : Creating CSV file: ./data/animelist_2021_Jan.csv
+INFO : 2023-08-20 23:04:53,121 : Scraping URL: http://ruijianime.com/main/year/2021_Jan.php
+INFO : 2023-08-20 23:04:53,121 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2021_Jan.php
+DEBUG : 2023-08-20 23:04:53,125 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,142 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2021_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,142 : No more data for '/year/2021-3.php' on page 1.
+INFO : 2023-08-20 23:04:53,143 : Scraping for '/year/2021-3.php' completed.
+INFO : 2023-08-20 23:04:53,143 : Creating CSV file: ./data/animelist_2022_Apr.csv
+INFO : 2023-08-20 23:04:53,143 : Scraping URL: http://ruijianime.com/main/year/2022_Apr.php
+INFO : 2023-08-20 23:04:53,143 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2022_Apr.php
+DEBUG : 2023-08-20 23:04:53,144 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,163 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2022_Apr.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,163 : No more data for '/year/2022-0.php' on page 1.
+INFO : 2023-08-20 23:04:53,163 : Scraping for '/year/2022-0.php' completed.
+INFO : 2023-08-20 23:04:53,163 : Creating CSV file: ./data/animelist_2022_Jul.csv
+INFO : 2023-08-20 23:04:53,163 : Scraping URL: http://ruijianime.com/main/year/2022_Jul.php
+INFO : 2023-08-20 23:04:53,163 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2022_Jul.php
+DEBUG : 2023-08-20 23:04:53,165 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,181 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2022_Jul.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,181 : No more data for '/year/2022-1.php' on page 1.
+INFO : 2023-08-20 23:04:53,181 : Scraping for '/year/2022-1.php' completed.
+INFO : 2023-08-20 23:04:53,182 : Creating CSV file: ./data/animelist_2022_Oct.csv
+INFO : 2023-08-20 23:04:53,182 : Scraping URL: http://ruijianime.com/main/year/2022_Oct.php
+INFO : 2023-08-20 23:04:53,182 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2022_Oct.php
+DEBUG : 2023-08-20 23:04:53,183 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,197 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2022_Oct.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,197 : No more data for '/year/2022-2.php' on page 1.
+INFO : 2023-08-20 23:04:53,197 : Scraping for '/year/2022-2.php' completed.
+INFO : 2023-08-20 23:04:53,197 : Creating CSV file: ./data/animelist_2022_Jan.csv
+INFO : 2023-08-20 23:04:53,197 : Scraping URL: http://ruijianime.com/main/year/2022_Jan.php
+INFO : 2023-08-20 23:04:53,197 : http://ruijianime.com/mainhttp://ruijianime.com/main/year/2022_Jan.php
+DEBUG : 2023-08-20 23:04:53,199 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:04:53,212 : http://ruijianime.com:80 "GET /mainhttp://ruijianime.com/main/year/2022_Jan.php HTTP/1.1" 404 13
+INFO : 2023-08-20 23:04:53,212 : No more data for '/year/2022-3.php' on page 1.
+INFO : 2023-08-20 23:04:53,212 : Scraping for '/year/2022-3.php' completed.
+INFO : 2023-08-20 23:04:53,212 : -----------------END-------------------

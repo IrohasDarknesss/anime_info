@@ -1,0 +1,516 @@
+INFO : 2023-08-20 23:09:57,005 : -----------------START-------------------
+INFO : 2023-08-20 23:09:57,007 : Creating CSV file: ./data/animelist_2010_Apr.csv
+INFO : 2023-08-20 23:09:57,007 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 23:09:57,026 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:09:57,187 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
+INFO : 2023-08-20 23:09:57,226 : Scraping URL: <!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8"/>
+<meta content="アニメ,検索,類似アニメ,類似" name="keywords"/>
+<meta content="2010年春のアニメ一覧を表示しています" name="description"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="IE=edge" http-equiv="x-ua-compatible"/>
+<title>2010年春アニメ一覧 | 類似アニメ検索</title>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" rel="stylesheet"/>
+<link href="../../css/style.css?20190108" media="screen" rel="stylesheet" type="text/css">
+<link href="../../css/style_sma.css?20181222" media="screen" rel="stylesheet" type="text/css">
+<link href="../../img/iphone_icon.png" rel="apple-touch-icon"/>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<script>
+    
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-45290232-1', 'ruijianime.com');
+          ga(function(tracker) {
+            var clientId = tracker.get('clientId');
+            ga('set', 'dimension1', clientId);
+            
+          });
+          ga('send', 'pageview');
+    
+</script>
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.min.css" rel="stylesheet"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script data-tree="../../" id="search_script" src="../../js/search_suggest.js?20171002"></script>
+<link href="http://ruijianime.com/main/year/2010-0.php?start=20" rel="next">
+</link></link></link></head>
+<body>
+<div id="wrap">
+<header id="head">
+<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+<h1>
+<a href="../../"><img alt="類似アニメ検索" src="../../img/top_title.png?20171005" title="類似アニメ検索"/></a>
+</h1>
+</div>
+<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 post_share">
+<form action="../../main/title_search.php" autocomplete="on" id="srch_form" method="get">
+<div class="input-group">
+<input class="form-control" id="srchanime" name="srchanime" placeholder="タイトル or キーワード" type="search" value=""/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><i aria-hidden="true" class="fa fa-search"></i></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</header>
+<nav id="navi">
+<div class="mask">
+<ul id="global_navi">
+<li><a href="../../">Home</a></li>
+<li><a href="../../main/keyword.php">キーワード別</a></li>
+<li><a href="../../main/year.php">年代別</a></li>
+<li><a href="../../main/about.php">詳細検索</a></li>
+<li><a href="../../main/all_title.php">タイトル別</a></li>
+<li><a href="../../comic/">類似漫画</a></li>
+</ul>
+</div>
+</nav>
+<ol class="breadcrumb kuzu">
+<li><a href="../../">Home</a></li>
+<li><a href="../../main/year.php">年代別</a></li>
+<li>2010年アニメ</li>
+<li class="active">2010年春アニメ</li>
+</ol>
+<article>
+<h1 id="target_h">2010年春アニメ一覧</h1>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="nico">niconico</span></span>
+<h2><span class="rank">1</span>
+<a href="../ind/11.php" title="Angel Beats!の情報を見る">Angel Beats!</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/11.php">
+<img alt="Angel Beats! Complete Collection Blu-ray BOX (PS3再生・日本語音声可) (北米版)[Import]" src="https://images-fe.ssl-images-amazon.com/images/I/51PFCjcyZbL.jpg">
+</img></a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=13">感動</a> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a> <a href="../tag_search_easy.php?tag[]=4">作画</a></div>
+<p class="exp">森に囲まれた丘陵地にある天上学園は生徒総数2000名を越える全寮制の学校。一見するとごく普通の生徒らが生活を送っている学園だが、そこは死後の世界だった。</p>
+<p class="about"><a class="touch_box" href="../ind/11.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=Angel+Beats%21" title="Angel Beats!に似ている作品を検索します"><span>
+                                        Angel Beats!の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">2</span>
+<a href="../ind/342.php" title="けいおん!!の情報を見る">けいおん!!</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/342.php">
+<img alt="けいおん!!(第2期) 1 (Blu-ray 初回限定生産) [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51kP%2BoUcmGL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=10">日常</a> <a href="../tag_search_easy.php?tag[]=76">部活</a> <a href="../tag_search_easy.php?tag[]=18">学校・学園</a></div>
+<p class="exp">生徒会長兼秋山澪ファンクラブ会長・曽我部恵の澪へのストーカー騒ぎがあった3学期後、唯、澪、律、紬は3年生に、梓は2年生に進級した。勧誘活動を開始したものの、効果は実らず、新入生は一人も集まら...</p>
+<p class="about"><a class="touch_box" href="../ind/342.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%81%91%E3%81%84%E3%81%8A%E3%82%93%21%21" title="けいおん!!に似ている作品を検索します"><span>
+                                        けいおん!!の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">3</span>
+<a href="../ind/245.php" title="WORKING!!の情報を見る">WORKING!!</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/245.php">
+<img alt="WORKING!! 1 【完全生産限定版】 [DVD]" src="https://images-fe.ssl-images-amazon.com/images/I/51IdHLNckSL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a> <a href="../tag_search_easy.php?tag[]=10">日常</a> <a href="../tag_search_easy.php?tag[]=16">恋愛</a></div>
+<p class="exp">北海道某所にあるファミリーレストラン「ワグナリア」。あるきっかけで小鳥遊宗太はワグナリアでバイトとして勤務することになった。初日、意気込んでそのワグナリアに初出勤する宗太であったが、店長の白...</p>
+<p class="about"><a class="touch_box" href="../ind/245.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=WORKING%21%21" title="WORKING!!に似ている作品を検索します"><span>
+                                        WORKING!!の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">4</span>
+<a href="../ind/1139.php" title="四畳半神話大系の情報を見る">四畳半神話大系</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1139.php">
+<img alt="四畳半神話大系 第1巻 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51AtvKkILhL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=42">大学</a> <a href="../tag_search_easy.php?tag[]=135">ループ</a> <a href="../tag_search_easy.php?tag[]=167">パラレルワールド</a></div>
+<p class="exp">僕なりの愛ですよ。我々は運命の黒い糸で結ばれてるというわけです。</p>
+<p class="about"><a class="touch_box" href="../ind/1139.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E5%9B%9B%E7%95%B3%E5%8D%8A%E7%A5%9E%E8%A9%B1%E5%A4%A7%E7%B3%BB" title="四畳半神話大系に似ている作品を検索します"><span>
+                                        四畳半神話大系の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">5</span>
+<a href="../ind/1451.php" title="荒川アンダー ザ ブリッジの情報を見る">荒川アンダー ザ ブリッジ</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1451.php">
+<img alt="荒川アンダー ザ ブリッジ VOL.1【数量限定生産版】 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51BLNOvSKCL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a> <a href="../tag_search_easy.php?tag[]=23">シャフトっぽい</a> <a href="../tag_search_easy.php?tag[]=85">シュール</a></div>
+<p class="exp">主人公・市ノ宮行は世界のトップ企業社長の御曹司。幼い頃から父に「他人に借りを作るべからず」と教えられ、その教え通りに借りを作らずに生きてきた。
+しかし、ひょんなことから溺れかけた際、荒川河...</p>
+<p class="about"><a class="touch_box" href="../ind/1451.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E8%8D%92%E5%B7%9D%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC+%E3%82%B6+%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8" title="荒川アンダー ザ ブリッジに似ている作品を検索します"><span>
+                                        荒川アンダー ザ ブリッジの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="google_ad_ind">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tag_top -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9596171831814104" data-ad-format="auto" data-ad-slot="5462939672" style="display:block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="year_one">
+<h2><span class="rank">6</span>
+<a href="../ind/1076.php" title="会長はメイド様!の情報を見る">会長はメイド様!</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1076.php">
+<img alt="会長はメイド様!Blu-ray 1 [初回限定版][Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51hoGF%2BbrPL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=44">メイド</a> <a href="../tag_search_easy.php?tag[]=16">恋愛</a> <a href="../tag_search_easy.php?tag[]=145">少女漫画</a></div>
+<p class="exp">かつては男子校で、現在は共学校の星華高校は未だに男子の数が多く、女子は肩身の狭い思いをしていた。そんな中、初の女生徒会長になった男勝りな女子高生鮎沢美咲は男子の横暴から女子を守るため日夜戦っ...</p>
+<p class="about"><a class="touch_box" href="../ind/1076.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E4%BC%9A%E9%95%B7%E3%81%AF%E3%83%A1%E3%82%A4%E3%83%89%E6%A7%98%21" title="会長はメイド様!に似ている作品を検索します"><span>
+                                        会長はメイド様!の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">7</span>
+<a href="../ind/44.php" title="B型H系の情報を見る">B型H系</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/44.php">
+<img alt="B型H系 1 こわいもの知らず(笑)無修正版 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51U2yWpjo3L.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=17">エロ</a> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a> <a href="../tag_search_easy.php?tag[]=16">恋愛</a></div>
+<p class="exp">高校入学を控えた山田は、「夢はエチトモ100人」という、エッチへの興味が旺盛な美少女。しかし、男性の前だとあがってしまう性格が徒となってか、未だに処女。
+ある日山田は、本屋で踏み台から転落...</p>
+<p class="about"><a class="touch_box" href="../ind/44.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=B%E5%9E%8BH%E7%B3%BB" title="B型H系に似ている作品を検索します"><span>
+                                        B型H系の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">8</span>
+<a href="../ind/1486.php" title="迷い猫オーバーラン!の情報を見る">迷い猫オーバーラン!</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1486.php">
+<img alt="迷い猫オーバーラン!第1巻 〈初回限定版〉 〈Blu-ray〉" src="https://images-fe.ssl-images-amazon.com/images/I/51FFfv8x1RL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=11">萌え</a> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a> <a href="../tag_search_easy.php?tag[]=40">ツンデレ</a></div>
+<p class="exp">都築巧は血の繋がらない姉・都築乙女がオーナーの潰れかけの洋菓子店（パティスリー）「ストレイキャッツ」を、幼馴染であるアルバイトの芹沢文乃と3人で営んでいた。
+物語は、趣味が人助けである都築...</p>
+<p class="about"><a class="touch_box" href="../ind/1486.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E8%BF%B7%E3%81%84%E7%8C%AB%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%21" title="迷い猫オーバーラン!に似ている作品を検索します"><span>
+                                        迷い猫オーバーラン!の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="nico">niconico</span><span class="bandai">BANDAI</span></span>
+<h2><span class="rank">9</span>
+<a href="../ind/281.php" title="いちばんうしろの大魔王の情報を見る">いちばんうしろの大魔王</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/281.php">
+<img alt="いちばんうしろの大魔王 全6巻セット [マーケットプレイス Blu-rayセット]" src="https://images-fe.ssl-images-amazon.com/images/I/418pPpqTohL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=17">エロ</a> <a href="../tag_search_easy.php?tag[]=169">魔王</a> <a href="../tag_search_easy.php?tag[]=8">ギャグ</a></div>
+<p class="exp">紗伊阿九斗は、コンスタン魔術学院高等部の健康診断の職業適性審査で、「将来の職業、魔王」と告げられてしまう。阿九斗には全く心当たりが無かったが、噂はたちどころに学院内へ広まってしまう。学院では...</p>
+<p class="about"><a class="touch_box" href="../ind/281.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%86%E3%81%97%E3%82%8D%E3%81%AE%E5%A4%A7%E9%AD%94%E7%8E%8B" title="いちばんうしろの大魔王に似ている作品を検索します"><span>
+                                        いちばんうしろの大魔王の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">10</span>
+<a href="../ind/303.php" title="おおきく振りかぶって～夏の大会編～の情報を見る">おおきく振りかぶって～夏の大会編～</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/303.php">
+<img alt="おおきく振りかぶって ~夏の大会編~2 【完全生産限定版】 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51u-aUk%2BP6L.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=60">野球</a> <a href="../tag_search_easy.php?tag[]=32">スポーツ</a> <a href="../tag_search_easy.php?tag[]=21">成長</a></div>
+<p class="exp">公立高校の新設硬式野球部を舞台に、甲子園優勝を目指す主人公。 主人公の三橋 廉（みはし れん）たちの成長を描く。</p>
+<p class="about"><a class="touch_box" href="../ind/303.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%81%8A%E3%81%8A%E3%81%8D%E3%81%8F%E6%8C%AF%E3%82%8A%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%A6%EF%BD%9E%E5%A4%8F%E3%81%AE%E5%A4%A7%E4%BC%9A%E7%B7%A8%EF%BD%9E" title="おおきく振りかぶって～夏の大会編～に似ている作品を検索します"><span>
+                                        おおきく振りかぶって～夏の大会編～の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">11</span>
+<a href="../ind/104.php" title="GIANT KILLINGの情報を見る">GIANT KILLING</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/104.php">
+<img alt="GIANT KILLING DVD BOX" src="https://images-fe.ssl-images-amazon.com/images/I/41mgqBNY0VL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=61">サッカー</a> <a href="../tag_search_easy.php?tag[]=32">スポーツ</a> <a href="../tag_search_easy.php?tag[]=52">リアリティ</a></div>
+<p class="exp">低迷を続けるETU（East Tokyo United）に、一人の男が監督として迎えられた。男の名は達海猛。かつてのETUのスター選手であり、引退後はイングランド5部のアマチュアクラブの監督...</p>
+<p class="about"><a class="touch_box" href="../ind/104.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=GIANT+KILLING" title="GIANT KILLINGに似ている作品を検索します"><span>
+                                        GIANT KILLINGの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">12</span>
+<a href="../ind/1671.php" title="機動戦士ガンダムUCの情報を見る">機動戦士ガンダムUC</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1671.php">
+<img alt="機動戦士ガンダムUC(ユニコーン) 1 [DVD]" src="https://images-fe.ssl-images-amazon.com/images/I/51EmbWkFFpL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=340">ガンダムっぽい</a> <a href="../tag_search_easy.php?tag[]=9">バトル</a> <a href="../tag_search_easy.php?tag[]=46">宇宙</a></div>
+<p class="exp">第二次ネオ・ジオン抗争、別名「シャアの反乱」の終結によって、地球圏には束の間の平穏が訪れた。
+それから3年後、宇宙世紀0096年。工業コロニー「インダストリアル7」において、とある謀議が交...</p>
+<p class="about"><a class="touch_box" href="../ind/1671.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0UC" title="機動戦士ガンダムUCに似ている作品を検索します"><span>
+                                        機動戦士ガンダムUCの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="nico">niconico</span></span>
+<h2><span class="rank">13</span>
+<a href="../ind/1459.php" title="薄桜鬼の情報を見る">薄桜鬼</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1459.php">
+<img alt="薄桜鬼 Blu-ray BOX (初回限定生産)" src="https://images-fe.ssl-images-amazon.com/images/I/51azTHIG7tL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=327">新選組</a> <a href="../tag_search_easy.php?tag[]=102">歴史</a> <a href="../tag_search_easy.php?tag[]=116">逆ハーレム</a></div>
+<p class="exp">幕末、文久三年から物語は始まる。主人公・雪村千鶴は江戸育ちの蘭学医の娘。父・綱道は京で仕事をしており離れて生活をしていた。ある日、父との連絡が取れなくなり心配になった千鶴は、男装をして京の町...</p>
+<p class="about"><a class="touch_box" href="../ind/1459.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E8%96%84%E6%A1%9C%E9%AC%BC" title="薄桜鬼に似ている作品を検索します"><span>
+                                        薄桜鬼の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">14</span>
+<a href="../ind/129.php" title="kiss×sisの情報を見る">kiss×sis</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/129.php">
+<img alt="kiss×sis 1 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/518YxNdrwWL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=17">エロ</a> <a href="../tag_search_easy.php?tag[]=110">姉</a> <a href="../tag_search_easy.php?tag[]=194">弟</a></div>
+<p class="exp">中学3年生の主人公、住之江圭太には血のつながっていない高校1年生の双子の姉あことりこがいる。 幼い頃は何事もなく普通の姉弟として育ったが年を重ねて三人が思春期を迎える頃、あことりこは圭太に猛...</p>
+<p class="about"><a class="touch_box" href="../ind/129.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=kiss%C3%97sis" title="kiss×sisに似ている作品を検索します"><span>
+                                        kiss×sisの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">15</span>
+<a href="../ind/373.php" title="さらい屋 五葉の情報を見る">さらい屋 五葉</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/373.php">
+<img alt="さらい屋五葉（１） (IKKI　COMIX)" src="https://images-fe.ssl-images-amazon.com/images/I/51xXtngLclL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=37">和風</a> <a href="../tag_search_easy.php?tag[]=307">時代劇</a> <a href="../tag_search_easy.php?tag[]=100">サムライ</a></div>
+<p class="exp">田舎から江戸に出てきた侍・秋津政之助は、ひょんなことから誘拐組織「五葉」の頭目・弥一の用心棒をしてしまう。弥一に剣の腕を見込まれた政之助は、自らの意向とは逆に五葉の一味にされる。</p>
+<p class="about"><a class="touch_box" href="../ind/373.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%81%95%E3%82%89%E3%81%84%E5%B1%8B+%E4%BA%94%E8%91%89" title="さらい屋 五葉に似ている作品を検索します"><span>
+                                        さらい屋 五葉の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<span class="free_mark">第1話無料リンク有：<span class="bandai">BANDAI</span></span>
+<h2><span class="rank">16</span>
+<a href="../ind/119.php" title="HEROMANの情報を見る">HEROMAN</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/119.php">
+<img alt="HEROMAN Vol.1 (初回限定版) [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/41JzQmJvRqL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=43">ヒーロー</a> <a href="../tag_search_easy.php?tag[]=9">バトル</a> <a href="../tag_search_easy.php?tag[]=4">作画</a></div>
+<p class="exp">センターシティに住む少年ジョーイは捨てられたロボット型の玩具を修理して「ヒーローマン」と名付ける。そのヒーローマンに雷が直撃したとき、ヒーローマンは超人的なロボットにへと進化した。ジョーイは...</p>
+<p class="about"><a class="touch_box" href="../ind/119.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=HEROMAN" title="HEROMANに似ている作品を検索します"><span>
+                                        HEROMANの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">17</span>
+<a href="../ind/1714.php" title="文学少女の情報を見る">文学少女</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1714.php">
+<img alt="文学少女 SP Blu-ray BOX " src="https://images-fe.ssl-images-amazon.com/images/I/51xwyu-vf7L.jpg" 回想録"="" 文学少女"=""/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=4">作画</a> <a href="../tag_search_easy.php?tag[]=90">昼ドラ的展開</a> <a href="../tag_search_easy.php?tag[]=16">恋愛</a></div>
+<p class="exp">高校2年生の今、「普通の男子高生」の主人公・井上心葉。彼は過去に大きなトラウマを抱え、モットーさえ「君子危うきに近寄らず」。そんな彼がひょんな事から、生粋の文学少女である天野遠子の秘密を知っ...</p>
+<p class="about"><a class="touch_box" href="../ind/1714.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3" title="文学少女に似ている作品を検索します"><span>
+                                        文学少女の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">18</span>
+<a href="../ind/1530.php" title="閃光のナイトレイドの情報を見る">閃光のナイトレイド</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1530.php">
+<img alt="閃光のナイトレイド 1 [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/51wbOZkRlXL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=102">歴史</a> <a href="../tag_search_easy.php?tag[]=27">超能力</a> <a href="../tag_search_easy.php?tag[]=9">バトル</a></div>
+<p class="exp">1931年（昭和6年）の中国、上海および上海租界。日本陸軍の中に存在した特務機関・桜井機関は、特殊能力を持つため表舞台で活躍する事はなく、数々の事件の裏で糸を引いている。同じ頃に陸軍の一部隊...</p>
+<p class="about"><a class="touch_box" href="../ind/1530.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E9%96%83%E5%85%89%E3%81%AE%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AC%E3%82%A4%E3%83%89" title="閃光のナイトレイドに似ている作品を検索します"><span>
+                                        閃光のナイトレイドの</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">19</span>
+<a href="../ind/1683.php" title="いばらの王 -King of Thorn-の情報を見る">いばらの王 -King of Thorn-</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/1683.php">
+<img alt="いばらの王 -King of Thorn- [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/61p%2B8EVQyjL.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=4">作画</a> <a href="../tag_search_easy.php?tag[]=9">バトル</a> <a href="../tag_search_easy.php?tag[]=33">SF</a></div>
+<p class="exp">治療法のない謎の石化病、通称『メドゥーサ』。奇病に蝕まれた世界の人々、その中から選ばれた160人は未来に可能性を託し、冷凍睡眠（コールドスリープ）についた。
+しかし・・・ 眠りから目覚めた...</p>
+<p class="about"><a class="touch_box" href="../ind/1683.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%81%84%E3%81%B0%E3%82%89%E3%81%AE%E7%8E%8B+-King+of+Thorn-" title="いばらの王 -King of Thorn-に似ている作品を検索します"><span>
+                                        いばらの王 -King of Thorn-の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+<div class="year_one">
+<h2><span class="rank">20</span>
+<a href="../ind/721.php" title="ジュエルペット てぃんくる☆の情報を見る">ジュエルペット てぃんくる☆</a>
+</h2>
+<div class="row">
+<div class="sm_image col-lg-3 col-md-4 col-sm-5 col-xs-6"> <a href="../ind/721.php">
+<img alt="TVアニメ「ジュエルペット てぃんくる☆」ファンディスクBD [Blu-ray]" src="https://images-fe.ssl-images-amazon.com/images/I/612Gf8yQe9L.jpg"/>
+</a></div>
+<div class="sm_abst col-lg-9 col-md-8 col-sm-7 col-xs-6">
+<p class="date"><span>放送時期：</span>2010年春アニメ</p>
+<div class="top_word"><span>主なタグ</span> <a href="../tag_search_easy.php?tag[]=35">魔法</a> <a href="../tag_search_easy.php?tag[]=13">感動</a> <a href="../tag_search_easy.php?tag[]=21">成長</a></div>
+<p class="exp">魔法の国ジュエルランドでは魔法学校の始業式が始まったころ、新入生のルビーが登校してくる。新入生の魔法入学試験を受けさせるのをすっかり忘れていたモルダヴァイト校長は、この場で試験を行なうことを...</p>
+<p class="about"><a class="touch_box" href="../ind/721.php">詳細<span>を見る</span></a></p>
+<p class="ruight"><a class="touch_box" href="../ruiji.php?title=%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%9A%E3%83%83%E3%83%88+%E3%81%A6%E3%81%83%E3%82%93%E3%81%8F%E3%82%8B%E2%98%86" title="ジュエルペット てぃんくる☆に似ている作品を検索します"><span>
+                                        ジュエルペット てぃんくる☆の</span>類似検索</a></p>
+</div>
+</div>
+</div>
+</article>
+<div class="google_ad_footer_336">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- footer_big -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9596171831814104" data-ad-slot="8609643722" style="display:inline-block;width:336px;height:280px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div id="pre_next">
+<ul class="pagination pagination-sm">
+<li class="page-item"><span class="numbering_now page-link">1</span></li>
+<li class="page-item"><a class="numbering page-link" href="2010-0.php?start=20">2</a></li>
+<li class="page-item">
+<a aria-label="Next" class="page-link pre_next_str" href="2010-0.php?start=20">
+<span aria-hidden="true">次へ</span>
+<span class="sr-only">次へ</span>
+</a>
+</li>
+</ul>
+</div>
+<div id="move_keyword">
+<a href="../../main/year.php">年代別アニメ一覧</a>
+</div>
+<div id="move_head_fix"><a href="#head" title="Return to Top ▲">▲</a></div>
+<footer id="foot">
+<div>(C) 2018 類似アニメ検索</div>
+<a class="link_default" href="../../">Home</a>
+<a class="link_default" href="../../main/keyword.php">アニメキーワード一覧</a>
+<a class="link_default" href="../../main/tag_search_easy.php?tag%5B%5D=1">人気アニメ一覧</a>
+<a class="link_default" href="../../comic/">漫画TOP</a>
+<a class="link_default" href="../../comic/keyword/keyword.php">漫画キーワード一覧</a><br/>
+<a class="link_default" href="../../main/site.php">このサイトについて</a>
+<a class="link_default" href="../../main/mailform.php">お問い合わせ</a>
+</footer>
+</div>
+<script src="../../js/top_scroll.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+INFO : 2023-08-20 23:10:37,326 : Writing to ./data/animelist_2010_Apr.csv completed on page 1.
+INFO : 2023-08-20 23:10:37,328 : http://ruijianime.com/main/year/2010-0.php
+DEBUG : 2023-08-20 23:10:37,337 : Starting new HTTP connection (1): ruijianime.com:80
+DEBUG : 2023-08-20 23:10:37,501 : http://ruijianime.com:80 "GET /main/year/2010-0.php HTTP/1.1" 200 9306
